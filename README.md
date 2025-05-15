@@ -1,0 +1,2 @@
+# AndoidProjectTest
+Android studioで作ったプロジェクトをgit を用いて共同開発ができるかどうかのテスト
